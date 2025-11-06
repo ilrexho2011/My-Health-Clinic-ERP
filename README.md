@@ -1,1 +1,1 @@
-# Klinika-ime
+# Klinika-ime Management System is the most complete and multi-functional hospital or medical center management system. It collaborates admin, patients, doctors, nurses, laboratorists, pharmacists, receptionist, accountants so that all the paperworks and manual tiresome works can be automated easily and efficiently.
