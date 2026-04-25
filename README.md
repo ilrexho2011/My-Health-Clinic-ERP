@@ -3,6 +3,7 @@
 
 <img width="1660" height="934" alt="image" src="https://github.com/user-attachments/assets/2d23ee5f-f675-44cd-81c4-af61f2a37f6d" />
 
+
 It combines admin, patients, doctors, nurses, laboratorists, pharmacists, receptionist, accountants so that all the paperworks and manual tiresome works can be automated easily and efficiently.
 
 ## Executive Summary
