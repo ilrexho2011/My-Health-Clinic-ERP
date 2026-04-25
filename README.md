@@ -3,8 +3,7 @@
 
 <img width="1660" height="934" alt="image" src="https://github.com/user-attachments/assets/2d23ee5f-f675-44cd-81c4-af61f2a37f6d" />
 
-
-It combines admin, patients, doctors, nurses, laboratorists, pharmacists, receptionist, accountants so that all the paperworks and manual tiresome works can be automated easily and efficiently.
+### It combines admin, patients, doctors, nurses, laboratorists, pharmacists, receptionist, accountants so that all the paperworks and manual tiresome works can be automated easily and efficiently.
 
 ## Executive Summary
 The “My Health Clinic ERP” package represents a web-based clinic and hospital management system. It is implemented on a CodeIgniter MVC architecture and is designed to centralize medical, administrative, operational, and financial processes in a single multi-user platform.
